@@ -1,0 +1,8 @@
+reddish color : #FD3951
+reddish color : #CB3144
+background color : #121517
+logo color : #CFCFCF
+green color : #058E55 ,'05a155'
+yellow color : #B79548
+text color : #757E88
+Modal Background color : #1D2329
